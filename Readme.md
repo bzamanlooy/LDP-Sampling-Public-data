@@ -1,4 +1,5 @@
 # Locally Private Sampling with Public Data  
+The manuscript is available as Locally_Private_Sampling_with_Public_Data.pdf on this GitHub repository."
 
 ## Installation  
 Install requirements.
@@ -17,7 +18,7 @@ Extract datasets to the root directory:
 Run Jupyter notebooks:  
 
 - **Figure 2:** `Synthetic.ipynb` 
-- **Figure 3:** `Avazu.ipynb`  
+- **Figure 3:** `Avezu.ipynb`  
 - **Figure 4:** `MovieLens.ipynb`  
 
 For issues, contact **Behnoosh Zamanlooy** (zamanlob@mcmaster.ca).
