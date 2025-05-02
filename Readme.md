@@ -1,5 +1,5 @@
 # Locally Private Sampling with Public Data  
-The manuscript is available as Locally_Private_Sampling_with_Public_Data.pdf on this GitHub repository."
+The manuscript is available as Locally_Private_Sampling_with_Public_Data.pdf on this GitHub repository.
 
 ## Installation  
 Install requirements.
